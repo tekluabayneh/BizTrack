@@ -1,7 +1,9 @@
-const login = () =>{
+export const metadata = {
+title:"login page"
+}
 
-return (
-<> 
+const login = () =>{
+return ( <> 
 
 <h1>this the login</h1>
 

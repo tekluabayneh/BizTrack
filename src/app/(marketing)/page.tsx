@@ -5,5 +5,6 @@ export default function Home() {
         hello man it work
       </h1>
     </>
+
   );
 }
